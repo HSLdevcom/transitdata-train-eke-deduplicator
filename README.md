@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/HSLdevcom/transitdata-hfp-deduplicator.svg?branch=master)](https://travis-ci.org/HSLdevcom/transitdata-train-eke-deduplicator)
+[![Build Status](https://travis-ci.org/HSLdevcom/transitdata-train-eke-deduplicator.svg?branch=master)](https://travis-ci.org/HSLdevcom/transitdata-train-eke-deduplicator)
 
 # Transitdata-train-eke-deduplicator
 

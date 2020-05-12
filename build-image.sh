@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t hsldevcom/transitdata-hfp-deduplicator .
+docker build -t hsldevcom/transitdata-train-eke-deduplicator .
